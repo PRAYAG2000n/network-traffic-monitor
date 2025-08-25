@@ -1,0 +1,12 @@
+venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+dist/
+.env
+awscliv2.zip
+aws/
